@@ -16,6 +16,11 @@
     font-size: 1em;
 }
 
+.nav-container li{
+    list-style-type: none;
+    padding: 10px;
+}
+
 .nav-container a:hover{
     color: red;
 }
